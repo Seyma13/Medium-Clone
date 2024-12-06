@@ -6,6 +6,6 @@ Frontend: Htlm, Css, Javascript, Booststap
 
 ### Screenshots 📸
 
-[](Ekran-Alıntıs.jpg)
+![](Ekran-Alıntıs.jpg)
 
 
