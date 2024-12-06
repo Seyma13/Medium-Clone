@@ -1,11 +1,11 @@
 # Medium Clone 📝
 
-Tech Stack 💻
+## Tech Stack 💻
 Frontend: Htlm, Css, Javascript, Booststap
 📱 Responsive Tasarım: Hem masaüstü hem de mobil cihazlara uygun.
 
-Screenshots 📸
+### Screenshots 📸
 
-[patika](Ekran-Alıntıs.jpg)
+[](Ekran-Alıntıs.jpg)
 
 
